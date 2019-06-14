@@ -9,10 +9,10 @@ This project is developed based on a [bird sound detetection challenge](http://m
 - Install required packages. 
   - For packages from CRAN, simply input 'install.packages("Name_of_Package")'. 
   - For packages from Bioconductor, such as `EBImage`, please follow the [instruction](https://www.bioconductor.org/packages/release/bioc/html/EBImage.html). 
-```R
-install.packages("BiocManager")
-BiocManager::install("Name_of_Package"), 
-```
+  ```R
+  install.packages("BiocManager")
+  BiocManager::install("Name_of_Package"), 
+  ```
 
 ## Logistic Regression
 
