@@ -22,7 +22,7 @@ Here is the result based on randomly dividing the full dataset: 12552 (80%) reco
 
 | Processing time <br> for training (hr)   | Processing time <br> for prediction (hr)   | Accuracy (%) |
 | ------------- |:-------------:| -----:|
-|    1:09     | 0:17 | 76 |
-|    6:48     | 1:40 | 84 |
+| 1:09 | 0:17 | 76 |
+| 6:48 | 1:40 | 84 |
 
 Have fun!
