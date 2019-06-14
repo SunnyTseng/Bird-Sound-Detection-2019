@@ -18,11 +18,11 @@ If applying to the new dataset is of interest, simply replace the data in the `s
   ```
 
 ## Comparison between logistic model and CNNs
-Here is the result based on randomly dividing the full dataset: 12552 (80%) recordings for train 3138 (20%) recordings for test.
+Here is the result based on randomly dividing the full dataset: 12552 (80%) recordings for training and 3138 (20%) recordings for making prediction, i.e., testing.
 
 | Processing time <br> for training (hr)   | Processing time <br> for prediction (hr)   | Accuracy (%) |
 | ------------- |:-------------:| -----:|
-| 1:09     | 0:17 | 76|
-| 6:48     | 1:40 | 84|
+| 1:09     | 0:17 | 76 |
+| 6:48     | 1:40 | 84 |
 
 Have fun!
