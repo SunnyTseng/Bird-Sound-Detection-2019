@@ -1,6 +1,5 @@
 rm(list=ls())
 
-### Author: Sunny Tseng 2019
 
 #####
 # Library
