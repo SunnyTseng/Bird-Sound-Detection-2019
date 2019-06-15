@@ -1,6 +1,5 @@
 rm(list=ls())
 
-### Author: Sunny Tseng 2019
 ### Reference: (1) CIFAR 10 example. (https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py)
 ###            (2) Francisco Lima. CNN in R. (https://www.r-bloggers.com/convolutional-neural-networks-in-r/)
 
